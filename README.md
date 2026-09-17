@@ -1,45 +1,47 @@
 👋 Hey, I'm Abdul Haseeb
-Senior Full Stack & AI Engineer
-I build scalable web, mobile, SaaS, and AI-powered products using modern JavaScript and TypeScript technologies.
 
-With 11+ years of software engineering experience, I enjoy turning complex ideas into reliable, production-ready applications.
+Lead Full Stack Engineer
+
+I build scalable web, mobile, and SaaS products using modern JavaScript and TypeScript technologies. With 9+ years of software engineering experience, I enjoy turning complex requirements into reliable, production-ready systems.
 
 ⚡ About Me
-I’m a Senior Full Stack & AI Engineer with 11+ years of experience building production-ready web, mobile, SaaS, fintech, marketplace, healthcare, and AI-powered applications.
 
-My core expertise includes React, Next.js, React Native, TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Redis, AWS, Docker, and Kubernetes.
+I'm a Lead Full Stack Engineer with 9+ years of experience building production-ready web, mobile, and enterprise SaaS applications.
 
-I also work with modern AI & LLM technologies, including RAG, embeddings, AI agents, agentic workflows, tool calling, LangChain, and LangGraph, integrating AI capabilities into real-world products and business workflows.
+My core expertise includes React, Next.js, React Native, TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, GraphQL, and AWS.
 
-I enjoy working across the complete product lifecycle — from architecture and development to testing, deployment, integrations, performance optimization, and production support.
+I've also been integrating AI-assisted development (Claude Code, Cursor, GitHub Copilot) into my day-to-day workflow — using it to move faster on the "how," while spending more of my own judgment on the "why" behind system design.
 
-I’m also experienced in leading engineering teams, mentoring developers, designing scalable systems, and turning complex requirements into reliable software.
+I enjoy working across the full product lifecycle — architecture, development, code review, deployment, and production support — and I currently lead a team of engineers, mentoring on code quality and system design.
 
-Currently focused on: Building scalable full-stack products and practical AI-powered solutions that solve real business problems.
+Currently focused on: leading full-stack delivery on enterprise platforms, and figuring out where AI tools genuinely speed up engineering work vs. where judgment still has to come from a person.
 
 🛠️ Tech Stack
+
 Frontend
 
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 Backend & Databases
 
+Show Image Show Image Show Image Show Image Show Image Show Image
 
 Cloud & DevOps
 
+Show Image Show Image Show Image Show Image
 
-AI & LLM Development
+AI-Assisted Development
 
-
-LLM Integrations · RAG · Embeddings · AI Agents · Agentic Workflows · Tool Calling · LangChain · LangGraph
+Show Image Show Image Show Image
 
 🚀 What I Build
-🏢 SaaS & Enterprise Applications
-🛒 E-commerce & Marketplace Platforms
-💳 Fintech & Payment Systems
+🏢 Enterprise & SaaS Applications
 📱 React Native Android & iOS Applications
-🤖 AI / LLM / RAG Applications
-🔌 REST APIs & Third-Party Integrations
-☁️ AWS Cloud & Production Systems
+🔌 REST & GraphQL APIs, Third-Party Integrations
+☁️ Cloud-Native, Scalable Backend Systems
+⚡ High-Performance, Distributed Web Applications
+
+📍 Based in Lahore, Pakistan — open to global remote opportunities.
 ⚡ High-Performance Web Applications
 💼 Professional Experience
 Senior Lead Full Stack Software Engineer — Luxoft (Remote)
